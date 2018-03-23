@@ -9,3 +9,4 @@ Also might put up different hello worlds for different languages for more practi
 
 ### Also need to learn about markdown
 
+I have added a powershell script that says hello
