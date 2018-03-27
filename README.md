@@ -10,3 +10,22 @@ Also might put up different hello worlds for different languages for more practi
 ### Also need to learn about markdown
 
 I have added a powershell script that says hello
+
+*testing*
+**testing2**
+
+```html
+<body>
+ testing code for html
+</body>
+```
+
+```php
+<?php
+  $var = 0;
+?>
+```
+
+<ol>
+ <li>this is an item list using html</li>
+</ol>
