@@ -26,3 +26,6 @@ I have added a powershell script that says hello
 ?>
 ```
 
+<ol>
+ <li>this is an item list using html</li>
+</ol>
